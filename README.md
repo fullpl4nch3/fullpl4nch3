@@ -6,7 +6,7 @@ Golang, Rustlang, Assembly, Windows Internals, HackTheBox
 - 💞️ I’m looking to collaborate on ...
 Any project that's willing to accept a noob.
 - 📫 How to reach me ...
-fullpl4nch3@protonmail.com
+fullpl4nch3@protonmail.com or @fullpl4nch3 on Twitter
 
 <!---
 fullpl4nch3/fullpl4nch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
