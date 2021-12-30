@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fullpl4nch3
-- 👀 I’m interested in ...
+- 👀 I’m interested in
 Coding, Vulnerability Research and Exploit dev, Malware Analysis and learning in general!
 - 🌱 I’m currently learning ...
 Golang, Rustlang, Assembly, Windows Internals, HackTheBox
