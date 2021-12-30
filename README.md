@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @fullpl4nch3
-- 👀 I’m interested in
+- 👀 I’m interested in:
 Coding, Vulnerability Research and Exploit dev, Malware Analysis and learning in general!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
 Golang, Rustlang, Assembly, Windows Internals, HackTheBox
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on:
 Any project that's willing to accept a noob.
-- 📫 How to reach me ...
+- 📫 How to reach me:
 fullpl4nch3@protonmail.com or @fullpl4nch3 on Twitter
 
 <!---
